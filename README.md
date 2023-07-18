@@ -3,7 +3,7 @@ I'm Arya, a second-year computer science student at UCI 💻
 I have a passion for __artificial intelligence (AI)__ and __machine learning (ML)__ 🧠  
 I am fascinated by the concept and applications of __generative AI__, as it offers incredible possibilities for creativity and innovation 🚀✨  
 
-Additionally, I'm heavily involved in the __Quantum Computing club__, where I participate in discussions, workshops, and projects related to Quantum technologies ⚛🔐
+Additionally, I'm involved in the __Quantum Computing club__, where I participate in discussions, workshops, and projects related to Quantum technologies ⚛🔐
 
   I'm actively seeking opportunities to delve deeper into AI, ML, Quantum Computing, and __software engineering__.  
   Feel free to reach out on [__LinkedIn__](https://www.linkedin.com/in/arya-mhaiskar/)! 🫱🏻‍🫲🏼
