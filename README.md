@@ -1,7 +1,7 @@
 ### Hello! 👋
 I'm Arya, a second-year computer science student at UCI 💻  
 I have a passion for __artificial intelligence (AI)__ and __machine learning (ML)__ 🧠  
-I am fascinated by the concept and applications of __generative AI__, as it offers incredible possibilities for creativity and innovation 🚀✨  
+I am fascinated by the concept and applications of __generative AI__, as it offers incredible possibilities for productivity and innovation 🚀✨  
 
 Additionally, I'm involved in the __Quantum Computing club__, where I participate in discussions, workshops, and projects related to Quantum technologies ⚛🔐
 
