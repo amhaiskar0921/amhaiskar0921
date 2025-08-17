@@ -1,7 +1,6 @@
 ### Hello! 👋
-I'm Arya, a third-year computer science student at UCI 💻  
-I have a passion for __artificial intelligence (AI)__ and __machine learning (ML)__ 🧠  
-I am fascinated by the concept and applications of __generative AI__, as it offers incredible possibilities for productivity and innovation 🚀✨  
+I'm Arya, a fouth-year computer science student at UCI 💻  
+I am fascinated by the concept and applications of __generative AI__, as it offers incredible possibilities for productivity and innovation 🚀✨
 
   I'm actively seeking opportunities to delve deeper into AI, ML, and __software engineering__.  
   Feel free to reach out on [__LinkedIn__](https://www.linkedin.com/in/arya-mhaiskar/)! 🫱🏻‍🫲🏼
